@@ -1,0 +1,11 @@
+
+{
+  "name": "دليلي الشامل - أمانك في أرقام",
+  "short_name": "دليلي",
+  "description": "الموسوعة الكاملة لأرقام الطوارئ، الجهات السيادية، والخدمات الرقابية في مصر. وصول سريع وخصوصية تامة.",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": []
+}
